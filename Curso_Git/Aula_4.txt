@@ -1,0 +1,172 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  ls
+    6  cd Desktop/
+    7  pwd
+    8  cd ..
+    9  cd Desktop/
+   10  cd ~
+   11  cd Destop/
+   12  mkdir Comandos
+   13  ls
+   14  mkdir Pasta Nova
+   15  ls
+   16  mkdir 'pasta nova'
+   17  ls
+   18  ls
+   19  ls
+   20  pwd
+   21  ls
+   22  cd Desktop/
+   23  pwd
+   24  cd ..
+   25  cd Desktop
+   26  cd ~
+   27  cd d
+   28  cd
+   29  cd
+   30  cd/
+   31  cd Desktop/
+   32  mkdir -p new/old
+   33  ls
+   34  rm -r nova pasta
+   35  rm -r 'nova pasta'
+   36  ls
+   37  ~
+   38  ls
+   39  pwd
+   40  ~
+   41  ls
+   42  pwd
+   43  ~
+   44  ls
+   45  pwd
+   46  rm -r comandos
+   47  cd ..
+   48  ls
+   49  rm -r pasta nova
+   50  rm -r 'pasta nova'
+   51  rm -r comandos
+   52  mkdir new
+   53  ls
+   54  ls
+   55  ls /
+   56  cd ..
+   57  ls
+   58  cd Desktop/
+   59  mkdir comandos]
+   60  mkdir comandos
+   61  ls
+   62  ls
+   63  cd Desktop
+   64  cd 'area de trabalho'
+   65  mkdir pasta
+   66  ls
+   67  cd Default/
+   68  ls
+   69  clear
+   70  history
+   71  clear
+   72  history {5}
+   73  history
+   74  history 5
+   75  history 7
+   76  clear
+   77  history > historico.txt
+   78  cash
+   79  cat historico txt
+   80  cat historico.txt
+   81  history
+   82  history > historico.txt
+   83  cat historico.txt
+   84  clear
+   85  git log
+   86  ĝit log
+   87  git log
+   88  git log
+   89  git log
+   90  gitlog
+   91  clear
+   92  git log
+   93  cd Curso_Git
+   94  cd Desktop
+   95  ls
+   96  cd Curso_Git
+   97  ls
+   98  git log
+   99  git log --pretty=oneline
+  100  cd Desktop
+  101  ls
+  102  cd Curso_Git
+  103  git log --pretty=oneline
+  104  git log state --state
+  105  git log --state
+  106  git loge--state
+  107  git log --stat
+  108  git log -p
+  109  git log -p -2
+  110  git pretty=oneline 2
+  111  git log --pretty=online -2
+  112  git log --pretty=online-2
+  113  git log --pretty=online -2
+  114  git log --pretty=oneline -2
+  115  git log --pretty=online -5
+  116  git log --pretty=oneline -5
+  117  git log --pretty=oneline -3
+  118  git log --since=2.minutes
+  119  git log --since=20.minutes
+  120  git log --since=60.minutes
+  121  git log --since=1.days
+  122  git log --author='Esmirna'
+  123  git log
+  124  git status
+  125  touch teste
+  126  git add teste
+  127  git status
+  128  git commit -m 'Commit de teste'
+  129  git log
+  130  git reset --soft HEAD~
+  131  git log
+  132  git status
+  133  git commit -m 'Comite de teste'
+  134  git log
+  135  git status
+  136  git log
+  137  git reset --HARD
+  138  git reset --hard
+  139  git reset --hard HEAD~
+  140  git log
+  141  git status
+  142  git log --pretty=online
+  143  git log --pretty=oneline
+  144  git checkout  HEAD~~ 
+  145  git status
+  146  git log
+  147  ls
+  148  git checkout master
+  149  git log
+  150  git checkout HEAD~2
+  151  git lo
+  152  git log
+  153  git checkout HEAD~
+  154  git checkout 'master'
+  155  clear
+  156  mkdir .vscode
+  157  touch conf.txt
+  158  mv conf.txt .vscode/
+  159  ls .vscode/
+  160  ls
+  161  ls -a
+  162  git status
+  163  echo '.vscode/' > .gitignore
+  164  git status
+  165  touch pessoal.conf
+  166  git status
+  167  echo 'pessoal.conf' >> .gitignore
+  168  git status
+  169  git add .gitignore
+  170  git commit -m 'Adicionado arquivo .gitignore'
+  171  git status
+  172  history > Aula_4.txt

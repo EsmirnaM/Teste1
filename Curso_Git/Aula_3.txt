@@ -1,0 +1,116 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  ls
+    6  cd Desktop/
+    7  pwd
+    8  cd ..
+    9  cd Desktop/
+   10  cd ~
+   11  cd Destop/
+   12  mkdir Comandos
+   13  ls
+   14  mkdir Pasta Nova
+   15  ls
+   16  mkdir 'pasta nova'
+   17  ls
+   18  ls
+   19  ls
+   20  pwd
+   21  ls
+   22  cd Desktop/
+   23  pwd
+   24  cd ..
+   25  cd Desktop
+   26  cd ~
+   27  cd d
+   28  cd
+   29  cd
+   30  cd/
+   31  cd Desktop/
+   32  mkdir -p new/old
+   33  ls
+   34  rm -r nova pasta
+   35  rm -r 'nova pasta'
+   36  ls
+   37  ~
+   38  ls
+   39  pwd
+   40  ~
+   41  ls
+   42  pwd
+   43  ~
+   44  ls
+   45  pwd
+   46  rm -r comandos
+   47  cd ..
+   48  ls
+   49  rm -r pasta nova
+   50  rm -r 'pasta nova'
+   51  rm -r comandos
+   52  mkdir new
+   53  ls
+   54  ls
+   55  ls /
+   56  cd ..
+   57  ls
+   58  cd Desktop/
+   59  mkdir comandos]
+   60  mkdir comandos
+   61  ls
+   62  ls
+   63  cd Desktop
+   64  cd 'area de trabalho'
+   65  mkdir pasta
+   66  ls
+   67  cd Default/
+   68  ls
+   69  clear
+   70  history
+   71  clear
+   72  history {5}
+   73  history
+   74  history 5
+   75  history 7
+   76  clear
+   77  history > historico.txt
+   78  cash
+   79  cat historico txt
+   80  cat historico.txt
+   81  history
+   82  history > historico.txt
+   83  cat historico.txt
+   84  cd
+   85  ls
+   86  cd Desktop
+   87  ls
+   88  cd Curso_Git
+   89  git status
+   90  git add readme.md
+   91  git status
+   92  git commit -m 'commit inicial'
+   93  git status
+   94  echo '##Aula 1' >> readme.md
+   95  git status
+   96  echo 'Esmirna' > participantes.txt
+   97  git status
+   98  git add .
+   99  git status
+  100  git restore --staged participantes.txt
+  101  git status
+  102  git add participantes txt
+  103  git add participantes.txt
+  104  git status
+  105  git restore --staged .
+  106  git status
+  107  git commit -am 'Alteração no readme
+
+git commit -am 'Alteração no readme'
+'
+  108  git commit -am 'Alteração no readme'
+  109  git status
+  110  git add participantes.txt
+  111  git status
+  112  git commit -m 'Adicionado participantes.txt'
+  113  history > Aula_3.txt
